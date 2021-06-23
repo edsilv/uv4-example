@@ -2,6 +2,6 @@
 
 https://uv4-example.vercel.app/
 
-  npm i
+    npm i
 
-  npm run dev
+    npm run dev
